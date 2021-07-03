@@ -1,0 +1,6 @@
+Flask==1.1.2
+opencv-python~=4.5.1.48
+flask_pymongo ~=2.3.0
+numpy~=1.20.1
+matplotlib~=3.3.4
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory
