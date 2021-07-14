@@ -105,4 +105,4 @@ def main(image1, descriptionAry, image2Ary):
         else:
             continue
 
-    return False, 0.0, 'Not Found', 0
+    return False, 0.0, 'Not Found_Not Found', 0
